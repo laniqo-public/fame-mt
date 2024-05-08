@@ -1,8 +1,9 @@
 # FAME-MT dataset
 Dataset of translations between 15 source and 8 target languages annotated with formality information.
 
-Source languages supported: Czech, Danish, Dutch, English, German, French, Italian, Norwegian, Polish, Portuguese, Russian, Slovak, Spanish, Swedish, Ukrainian
-Target languages supported: Dutch, English, German, French, Italian, Polish, Portuguese, Spanish
+Source languages supported: `Czech, Danish, Dutch, English, German, French, Italian, Norwegian, Polish, Portuguese, Russian, Slovak, Spanish, Swedish, Ukrainian`
+
+Target languages supported: `Dutch, English, German, French, Italian, Polish, Portuguese, Spanish`
 
 For each combination of the source and target language, we provide samples of 50,000 examples, for which target sentence is considered formal and 50,000 translation examples, for which target sentence is considered informal.
 
