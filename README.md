@@ -16,4 +16,8 @@ Along with the datasets, we published models available online:
 - Marian-based formality-aware translator from English to German: https://huggingface.co/laniqo/marian_formality_fine_tuned_en_de/
 - Multilingual formality classifier, detecting whether a given sentence is formal or not, supporting Dutch, German, French, Italian, Polish, Portuguese, Spanish: https://huggingface.co/laniqo/fame_mt_mdeberta_formality_classifer
 
+# Research paper
+
+The FAME-MT dataset is accompanied by a research paper accepted at EAMT'24 conference. 
+
 
